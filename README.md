@@ -1,4 +1,4 @@
-# REPLaiTE
+# REPLAiTE
 REPLaiTE – Mobile App to Combat Food Waste with AI-Powered Recipes
 App Overview
 Name: REPLaiTE
