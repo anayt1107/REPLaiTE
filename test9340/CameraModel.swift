@@ -14,8 +14,8 @@ final class CameraModel: NSObject, ObservableObject, AVCapturePhotoCaptureDelega
     @Published var fullRecipes: [Recipe]?
     @Published var isFetchingRecipe: Bool = false
 
-    private let logMealApiToken = "eaecd40e9797351f898e680fc45adc571725fc78"
-    private let geminiApiKey = "AIzaSyBbhukx8tmzSg1QJ5UvVlek_MqqjIXvMq4"
+    private let logMealApiToken = ""
+    private let geminiApiKey = ""
     private let imageSearchService = SerpAPIService()
 
     func setup() {
