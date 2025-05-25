@@ -38,7 +38,7 @@ enum SerpAPIError: Error, LocalizedError {
 // MARK: - SerpAPIService
 class SerpAPIService {
     // SerpAPI Key provided by the user
-    private let apiKey = "7beb00ad3f46eee85b2bee66cfe8fbf3a33607cdaedc1c806b555a9b2638bc98"
+    private let apiKey = ""
 
     /// Searches Google Images via SerpAPI for a given query and returns the URL of the first image found.
     /// - Parameter query: The search term (e.g., "Spaghetti Carbonara recipe").
