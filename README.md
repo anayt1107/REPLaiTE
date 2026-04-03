@@ -1,146 +1,47 @@
 # REPLAiTE
-REPLaiTE – Mobile App to Combat Food Waste with AI-Powered Recipes
-App Overview
-Name: REPLaiTE
-Platform: Mobile (iOS and Android)
-Target Users: Everyday individuals and families looking to reduce food waste, save money, and cook more efficiently based on what they already have at home.
 
-Core Purpose
-REPLaiTE is a sustainability-focused mobile app that leverages AI to scan your fridge and pantry, identify ingredients, and suggest quick, efficient, and personalized recipes. It empowers users to waste less, cook smartly, and live more sustainably—all while catering to dietary needs such as vegetarian, vegan, lactose-free, and more. It also tracks impact in terms of food saved and money preserved.
+REPLAiTE is a mobile app that reduces food waste using AI-powered recipe suggestions.
 
-Key Features
-AI Ingredient Scanner: Uses your phone camera to scan the inside of your fridge or pantry and automatically detects ingredients.
+## App Overview
 
-Smart Recipe Suggestions: Instantly generates recipes based on detected ingredients, user preferences, and available time.
+- **Platform:** iOS and Android  
+- **Target Users:** Individuals and families looking to reduce food waste, save money, and cook with available ingredients  
 
-Dietary Preferences: Supports filters like vegetarian, gluten-free, vegan, and allergen-aware cooking.
+## Core Purpose
 
-Waste Reduction Tracking: Monitors your food-saving impact in kilograms and dollars saved.
+REPLAiTE uses AI to scan your fridge or pantry, identify ingredients, and generate personalized recipes. It helps users cook efficiently, reduce waste, and make more sustainable choices. The app also supports dietary needs (vegetarian, vegan, lactose-free, etc.) and tracks food and money saved.
 
-Weekly Goals & Achievements: Encourages consistent engagement with sustainability goals.
+## Key Features
 
-Quick-Access Design: Everything is 2 taps away—Scan, Recipes, Track, and Personalize.
+- **AI Ingredient Scanner**  
+  Uses the phone camera to detect ingredients in your fridge or pantry.
 
-App Pages
-1. Home Page
-[Insert Image: Home Page Mockup]
+- **Smart Recipe Suggestions**  
+  Generates recipes based on available ingredients, preferences, and time.
 
-Expiring Soon list (ingredients near expiration)
+- **Dietary Preferences**  
+  Filters for vegetarian, vegan, gluten-free, and allergen-aware options.
 
-Daily Food Waste Tips
+- **Waste Reduction Tracking**  
+  Tracks food saved (kg) and money saved.
 
-Quick Buttons:
+- **Weekly Goals & Achievements**  
+  Encourages consistent engagement with sustainability goals.
 
-“Scan Fridge”
+- **Quick-Access Design**  
+  Core features (Scan, Recipes, Track, Personalize) are accessible in two taps.
 
-“Find Recipes”
+## App Pages
 
-Recommended Recipe Previews (based on fridge scan or trends)
+### Home Page
 
-2. Scan Page
-[Insert Image: Scan Page Mockup]
+- Expiring Soon list (ingredients near expiration)  
+- Daily food waste tips  
+- Quick buttons:  
+  - Scan Fridge  
+  - Find Recipes  
+- Recommended recipe previews (based on scans or trends)
 
-Camera access for fridge/pantry scanning
+### Scan Page
 
-Live ingredient detection using AI
-
-Identified ingredient list displayed
-
-“Generate Recipes” button to take user to matched recipes
-
-3. Recipe Page
-[Insert Image: Recipe Page Mockup]
-
-List of recipe results (from AI scan or manual filters)
-
-Filter bar:
-
-Cook Time (under 15 min, under 30 min, etc.)
-
-Diet Type (e.g., vegetarian, lactose-free)
-
-Tags (Quick, Easy, Low Waste, Leftovers)
-
-Recipe Detail View:
-
-Step-by-step instructions
-
-Ingredient substitution tips
-
-Save button to add to Saved Recipes
-
-4. Tracker Page
-[Insert Image: Tracker Page Mockup]
-
-Total food saved (kg)
-
-Money saved ($)
-
-Weekly goal progress bar
-
-Achievements (badges like “Zero-Waste Hero” or “Clean Plate Club”)
-
-Monthly sustainability statistics
-
-5. User Profile Page
-[Insert Image: Profile Page Mockup]
-
-User avatar and name
-
-Editable dietary preferences
-
-Saved Recipes library
-
-Notification settings
-
-General app settings
-
-Logout button
-
-User Flow
-[Insert Image: User Flow Diagram]
-
-The user journey is designed to be simple and rewarding, allowing users to either start with a fridge scan or go directly to recipe inspiration. Here's how the experience unfolds:
-
-🔁 Typical User Journey
-Launch App → Home Page
-
-View expiring ingredients
-
-Tap “Scan Fridge” or “Find Recipes”
-
-Scan Fridge
-
-Opens camera
-
-AI identifies ingredients
-
-Tap “Generate Recipes”
-
-Recipe Page
-
-View matched recipes
-
-Filter by cook time, tags, diet
-
-Tap to open recipe
-
-Option to save it
-
-Tracker Page
-
-Check impact in food & money saved
-
-Review weekly goals and achievements
-
-User Profile
-
-Update dietary preferences
-
-View saved recipes
-
-Adjust settings or logout
-
-Conclusion
-
-REPLaiTE is more than a recipe app—it's a sustainable kitchen companion. It blends AI, intuitive design, and user-focused features to help individuals and families reduce waste, save money, and cook smarter. With just a few taps, users can transform leftovers and pantry items into nourishing meals, all while tracking their positive impact on the planet.
+- Camera access for scanning fridge or pantry contents 
