@@ -1,0 +1,37 @@
+# Xcode
+.DS_Store
+*.xcuserstate
+*.xcworkspace
+*.xcodeproj/
+!default.moved.xcworkspace
+!*.xcworkspace/contents.xcworkspacedata
+*.plist
+*.hmap
+*.ipa
+*.dSYM
+*.app
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Derived data
+DerivedData/
+
+# Archive files
+*.xcarchive
+
+# Logs
+*.log
+
+# User-specific files
+*.swp
+*.swo
+
+# Custom files
+*.xcscheme
+*.xcuserdatad/
+*.xcodeproj/project.xcworkspace/xcuserdata/
