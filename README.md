@@ -42,6 +42,32 @@ REPLAiTE uses AI to scan your fridge or pantry, identify ingredients, and genera
   - Find Recipes  
 - Recommended recipe previews (based on scans or trends)
 
+## App Pages (continued)
+
 ### Scan Page
 
-- Camera access for scanning fridge or pantry contents 
+- Access the camera to scan your fridge or pantry  
+- Automatically detects ingredients  
+- Highlights items nearing expiration  
+- Option to manually add or remove items  
+
+### Recipes Page
+
+- Displays AI-generated recipes based on scanned ingredients  
+- Filters for dietary preferences and allergens  
+- Shows estimated cooking time and difficulty  
+- Option to save favorite recipes  
+
+### Track Page
+
+- Monitors food waste reduction over time  
+- Shows total food saved (kg) and money saved  
+- Weekly and monthly summaries  
+- Visual charts for progress tracking  
+
+### Personalize Page
+
+- Set dietary preferences and restrictions  
+- Customize notification settings for expiring ingredients  
+- Set weekly sustainability goals  
+- View achievements and milestones 
